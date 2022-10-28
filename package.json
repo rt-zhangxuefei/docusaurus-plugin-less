@@ -1,0 +1,33 @@
+{
+  "name": "docusaurus2-plugin-less",
+  "version": "1.0.0",
+  "description": "Docusaurus v2 plugin to provide support for less",
+  "main": "docusaurus-plugin-less.js",
+  "dependencies": {
+  },
+  "peerDependencies": {
+    "@docusaurus/core": "^2.1.0",
+    "less": "^4.1.3",
+    "less-loader": "^11.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rt-zhangxuefei/docusaurus-plugin-less"
+  },
+  "homepage": "https://github.com/rt-zhangxuefei/docusaurus-plugin-less",
+  "keywords": [
+    "docusaurus",
+    "docusaurus-plugin",
+    "docusaurus-plugin-less",
+    "less"
+  ],
+  "author": "zhangxuefei",
+  "license": "MIT",
+  "readme": "README.md",
+  "bugs": {
+    "url": "https://github.com/rt-zhangxuefei/docusaurus-plugin-less/issues"
+  }
+}
